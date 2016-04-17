@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: cae055c9667cde64194ab6d9fbc66649
+timeCreated: 1460873522
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player.Ex.Animations_0
+    21300002: Player.Ex.Animations_1
+    21300004: Player.Ex.Animations_2
+    21300006: Player.Ex.Animations_3
+    21300008: Player.Ex.Animations_4
+    21300010: Player.Ex.Animations_5
+    21300012: Player.Ex.Animations_6
+    21300014: Player.Ex.Animations_7
+    21300016: Player.Ex.Animations_8
+    21300018: Player.Ex.Animations_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Player.Ex.Animations_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -15, y: 9}
+        - {x: -15, y: -14}
+        - {x: -12, y: -15}
+        - {x: 2, y: -15}
+        - {x: 3, y: -14}
+        - {x: 3, y: 11}
+        - {x: -3, y: 15}
+      - - {x: 13, y: 16}
+        - {x: 6, y: 16}
+        - {x: 3, y: 10}
+        - {x: 3, y: -9}
+        - {x: 7, y: -10}
+        - {x: 13, y: -10}
+        - {x: 15, y: -8}
+        - {x: 15, y: 5}
+        - {x: 14, y: 13}
+    - name: Player.Ex.Animations_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -15, y: 9}
+        - {x: -15, y: -14}
+        - {x: -12, y: -15}
+        - {x: 2, y: -15}
+        - {x: 3, y: -14}
+        - {x: 3, y: 11}
+        - {x: -3, y: 15}
+      - - {x: 13, y: 15}
+        - {x: 6, y: 15}
+        - {x: 3, y: 9}
+        - {x: 3, y: -10}
+        - {x: 7, y: -11}
+        - {x: 13, y: -11}
+        - {x: 15, y: -9}
+        - {x: 15, y: 4}
+        - {x: 14, y: 12}
+    - name: Player.Ex.Animations_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -15, y: 9}
+        - {x: -15, y: -14}
+        - {x: -12, y: -15}
+        - {x: 2, y: -15}
+        - {x: 3, y: -14}
+        - {x: 3, y: 11}
+        - {x: -3, y: 15}
+      - - {x: 13, y: 14}
+        - {x: 6, y: 14}
+        - {x: 3, y: 8}
+        - {x: 3, y: -11}
+        - {x: 7, y: -12}
+        - {x: 12, y: -12}
+        - {x: 15, y: -10}
+        - {x: 15, y: 3}
+        - {x: 14, y: 11}
+    - name: Player.Ex.Animations_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -15, y: 9}
+        - {x: -15, y: -14}
+        - {x: -12, y: -15}
+        - {x: 2, y: -15}
+        - {x: 3, y: -14}
+        - {x: 3, y: 11}
+        - {x: -3, y: 15}
+      - - {x: 3, y: 16}
+        - {x: 3, y: -8}
+        - {x: 7, y: -11}
+        - {x: 12, y: -11}
+        - {x: 15, y: -8}
+        - {x: 15, y: 15}
+        - {x: 13, y: 16}
+    - name: Player.Ex.Animations_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -15, y: 9}
+        - {x: -15, y: -14}
+        - {x: -12, y: -15}
+        - {x: 2, y: -15}
+        - {x: 3, y: -14}
+        - {x: 3, y: 11}
+        - {x: -3, y: 15}
+      - - {x: 3, y: 16}
+        - {x: 3, y: -12}
+        - {x: 15, y: -12}
+        - {x: 15, y: 16}
+    - name: Player.Ex.Animations_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 15}
+        - {x: -11, y: 15}
+        - {x: -15, y: 11}
+        - {x: -15, y: 1}
+        - {x: -13, y: -15}
+        - {x: 4, y: -15}
+        - {x: 16, y: -1}
+        - {x: 16, y: 11}
+        - {x: 14, y: 14}
+    - name: Player.Ex.Animations_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 15}
+        - {x: -15, y: 12}
+        - {x: -15, y: -14}
+        - {x: -11, y: -15}
+        - {x: 4, y: -15}
+        - {x: 16, y: -9}
+        - {x: 16, y: 2}
+        - {x: 7, y: 15}
+    - name: Player.Ex.Animations_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 15}
+        - {x: -15, y: 11}
+        - {x: -15, y: -15}
+        - {x: 16, y: -15}
+        - {x: 16, y: 8}
+        - {x: -2, y: 15}
+    - name: Player.Ex.Animations_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 14}
+        - {x: -16, y: 11}
+        - {x: -16, y: -6}
+        - {x: -15, y: -14}
+        - {x: -13, y: -15}
+        - {x: 2, y: -15}
+        - {x: 2, y: 12}
+        - {x: -3, y: 14}
+      - - {x: 13, y: 14}
+        - {x: 6, y: 14}
+        - {x: 3, y: 8}
+        - {x: 3, y: -11}
+        - {x: 7, y: -12}
+        - {x: 12, y: -12}
+        - {x: 15, y: -10}
+        - {x: 15, y: 3}
+        - {x: 14, y: 11}
+    - name: Player.Ex.Animations_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 13}
+        - {x: -16, y: 12}
+        - {x: -16, y: -10}
+        - {x: -15, y: -14}
+        - {x: -14, y: -15}
+        - {x: 1, y: -15}
+        - {x: 1, y: 11}
+        - {x: -4, y: 13}
+      - - {x: 13, y: 14}
+        - {x: 6, y: 14}
+        - {x: 3, y: 8}
+        - {x: 3, y: -11}
+        - {x: 7, y: -12}
+        - {x: 12, y: -12}
+        - {x: 15, y: -10}
+        - {x: 15, y: 3}
+        - {x: 14, y: 11}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

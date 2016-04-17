@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: a862c63e9798d7147af3cd6cad2b58fb
+timeCreated: 1460864016
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TriangleBoss.Animations_0
+    21300002: TriangleBoss.Animations_1
+    21300004: TriangleBoss.Animations_2
+    21300006: TriangleBoss.Animations_3
+    21300008: TriangleBoss.Animations_4
+    21300010: TriangleBoss.Animations_5
+    21300012: TriangleBoss.Animations_6
+    21300014: TriangleBoss.Animations_7
+    21300016: TriangleBoss.Animations_8
+    21300018: TriangleBoss.Animations_9
+    21300020: TriangleBoss.Animations_10
+    21300022: TriangleBoss.Animations_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TriangleBoss.Animations_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 30}
+        - {x: -3, y: 30}
+        - {x: -31, y: -24}
+        - {x: -31, y: -30}
+        - {x: -30, y: -31}
+        - {x: 30, y: -31}
+        - {x: 31, y: -30}
+        - {x: 31, y: -22}
+        - {x: 5, y: 28}
+    - name: TriangleBoss.Animations_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 30}
+        - {x: -3, y: 30}
+        - {x: -31, y: -24}
+        - {x: -31, y: -30}
+        - {x: -30, y: -31}
+        - {x: 30, y: -31}
+        - {x: 31, y: -30}
+        - {x: 31, y: -22}
+        - {x: 5, y: 28}
+    - name: TriangleBoss.Animations_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 30}
+        - {x: -3, y: 30}
+        - {x: -31, y: -24}
+        - {x: -31, y: -30}
+        - {x: -30, y: -31}
+        - {x: 30, y: -31}
+        - {x: 31, y: -30}
+        - {x: 31, y: -22}
+        - {x: 5, y: 28}
+    - name: TriangleBoss.Animations_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 30}
+        - {x: -3, y: 30}
+        - {x: -31, y: -24}
+        - {x: -31, y: -30}
+        - {x: -30, y: -31}
+        - {x: 30, y: -31}
+        - {x: 31, y: -30}
+        - {x: 31, y: -22}
+        - {x: 5, y: 28}
+    - name: TriangleBoss.Animations_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 30}
+        - {x: -21, y: 20}
+        - {x: -31, y: -21}
+        - {x: -31, y: -30}
+        - {x: -30, y: -31}
+        - {x: 30, y: -31}
+        - {x: 31, y: -29}
+        - {x: 31, y: -22}
+        - {x: 3, y: 30}
+    - name: TriangleBoss.Animations_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 30}
+        - {x: -4, y: 30}
+        - {x: -22, y: 14}
+        - {x: -31, y: -21}
+        - {x: -31, y: -30}
+        - {x: -30, y: -31}
+        - {x: 30, y: -31}
+        - {x: 31, y: -29}
+        - {x: 31, y: -22}
+        - {x: 5, y: 28}
+    - name: TriangleBoss.Animations_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 30}
+        - {x: -31, y: 14}
+        - {x: -31, y: -31}
+        - {x: 30, y: -31}
+        - {x: 31, y: -29}
+        - {x: 31, y: -22}
+        - {x: 7, y: 30}
+    - name: TriangleBoss.Animations_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 30}
+        - {x: -4, y: 30}
+        - {x: -31, y: 5}
+        - {x: -31, y: -31}
+        - {x: 30, y: -31}
+        - {x: 31, y: -30}
+        - {x: 31, y: -22}
+        - {x: 5, y: 28}
+    - name: TriangleBoss.Animations_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 30}
+        - {x: -31, y: 14}
+        - {x: -31, y: -31}
+        - {x: 30, y: -31}
+        - {x: 31, y: -29}
+        - {x: 31, y: -22}
+        - {x: 4, y: 30}
+    - name: TriangleBoss.Animations_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 30}
+        - {x: -2, y: 30}
+        - {x: -31, y: -21}
+        - {x: -31, y: -31}
+        - {x: 30, y: -31}
+        - {x: 31, y: -29}
+        - {x: 31, y: -22}
+        - {x: 6, y: 28}
+    - name: TriangleBoss.Animations_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -31}
+        - {x: 31, y: -31}
+        - {x: 31, y: -19}
+        - {x: 19, y: 30}
+        - {x: 0, y: 30}
+        - {x: -31, y: -22}
+    - name: TriangleBoss.Animations_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 9}
+        - {x: -31, y: -24}
+        - {x: -31, y: -30}
+        - {x: -30, y: -31}
+        - {x: 31, y: -31}
+        - {x: 31, y: -11}
+        - {x: 28, y: 9}
+        - {x: 10, y: 28}
+        - {x: 6, y: 28}
+        - {x: 3, y: 27}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
